@@ -45,6 +45,15 @@
    - 自动标签工作流程
    - 错误处理与降级策略
 
+4. **[local-setup-guide.md](./local-setup-guide.md)** (本地运行指南)
+   - 1. 下载项目代码
+   - 2. 分别安装依赖
+   - 3. 安装三方依赖（Docker 或本地）
+   - 4. 配置相关内容（前端、后端、AI Server）
+   - 5. 验证启动
+   - 启动检查清单
+   - 常见问题排查
+
 ---
 
 ## 🚀 快速开始
@@ -60,6 +69,10 @@
 ### 3. 了解业务场景
 
 查看 [business-scenarios.md](./business-scenarios.md) 了解不同角色的使用流程。
+
+### 4. 本地运行系统
+
+查看 [local-setup-guide.md](./local-setup-guide.md) 了解如何在本地启动系统（Docker 或本地开发方式）。
 
 ---
 
@@ -102,5 +115,3 @@
 ## 📄 许可证
 
 本文档遵循项目整体许可证。
-
-# asair-doc
